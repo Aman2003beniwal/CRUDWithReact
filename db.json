@@ -1,0 +1,40 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "Aman Beniwal",
+      "email": "aman@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Dinki Kaur",
+      "email": "dinki@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Ankit",
+      "email": "Ankit@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Aashish",
+      "email": "aashishbeniwal@gmail.com"
+    },
+    {
+      "id": "9919",
+      "name": "Ghazal",
+      "email": "GajuDon@gmail.com"
+    },
+    {
+      "id": "0147",
+      "name": "Sanjay",
+      "email": "sanjay@gmail.com"
+    },
+    {
+      "id": "699a",
+      "name": "Manpreet",
+      "emial": "",
+      "email": "manpreet@gmail.com"
+    }
+  ]
+}
